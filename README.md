@@ -38,8 +38,6 @@ Deploy directly from Git repositories
 #### User roles
 Permissions for developer and billing actions
 
-> We are going to publish this list as a readme in a git repository soon. I'll post the link here when available.
-
 ## Pricing
 We are also looking at new plan options thinking of hobby projects, open-source demos, etc. :thinking: 
 
