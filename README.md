@@ -4,9 +4,6 @@ As with any roadmap, this is a living document that will evolve as priorities an
 #### Notifications
 Receive activities (right side panel of Galaxy) on your email or Slack
 
-#### Allow changing settings
-Change Meteor settings from UI
-
 #### Autoscaling
 Autoscaling :smile:
  
@@ -38,8 +35,14 @@ Deploy directly from Git repositories
 #### User roles
 Permissions for developer and billing actions
 
-## Pricing
-We are also looking at new plan options thinking of hobby projects, open-source demos, etc. :thinking: 
+## Recently completed
+#### Allow changing settings
+Change Meteor settings from UI
+
+#### Pricing
+- Tiny containers: designed for hobby projects and open-source demos, starting from $7/month. [Read more](https://www.meteor.com/hosting#pricing)
+
+- Galaxy is offering a free trial of 30 days! You can use up to 4 GBs of RAM, which is the same as 4 standard containers, 2 double containers or 1 quad, so you can try all the Galaxy container sizes for free. Sign-up for Galaxy [now](https://www.meteor.com/sign-up)!
 
 ## Feedback
 Please let us know what you think, also feel free to send an email to support@meteor.com with suggestions.
