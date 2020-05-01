@@ -1,9 +1,6 @@
 ## Roadmap
 As with any roadmap, this is a living document that will evolve as priorities and dependencies shift; we aim to update the roadmap with any changes or status updates every quarter. 
 
-#### Notifications
-Receive activities (right side panel of Galaxy) on your email or Slack
-
 #### Autoscaling
 Autoscaling :smile:
  
@@ -36,6 +33,9 @@ Deploy directly from Git repositories
 Permissions for developer and billing actions
 
 ## Recently completed
+#### Notifications
+Receive activities (right side panel of Galaxy) on your email or Slack. [Read more](https://galaxy-guide.meteor.com/notifications.html)
+
 #### Allow changing settings
 Change Meteor settings from UI
 
