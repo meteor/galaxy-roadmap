@@ -1,8 +1,8 @@
 ## Roadmap
 As with any roadmap, this is a living document that will evolve as priorities and dependencies shift; we aim to update the roadmap with any changes or status updates every quarter. 
 
-#### Autoscaling
-Autoscaling :smile:
+#### Auto-scaling
+Auto-scaling :smile:
  
 #### Production Meteor shell support
 Allow Meteor shell on Galaxy apps
