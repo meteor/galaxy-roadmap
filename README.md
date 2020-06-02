@@ -1,14 +1,8 @@
 ## Roadmap
 As with any roadmap, this is a living document that will evolve as priorities and dependencies shift; we aim to update the roadmap with any changes or status updates every quarter. 
-
-#### Auto-scaling
-Auto-scaling :smile:
  
 #### Production Meteor shell support
 Allow Meteor shell on Galaxy apps
-
-#### Public API
-Public API so you can extend Galaxy features as you wish
 
 #### Monitoring system
 Smart alerts specific for Meteor apps and Galaxy servers
@@ -33,6 +27,12 @@ Deploy directly from Git repositories
 Permissions for developer and billing actions
 
 ## Recently completed
+#### Public API
+Public API so you can extend Galaxy features as you wish [Read more](https://galaxy-guide.meteor.com/api.html)
+
+#### Auto-scaling
+Auto-scaling :smile: [Read more](https://galaxy-guide.meteor.com/triggers.html)
+
 #### Notifications
 Receive activities (right side panel of Galaxy) on your email or Slack. [Read more](https://galaxy-guide.meteor.com/notifications.html)
 
