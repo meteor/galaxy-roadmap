@@ -40,7 +40,7 @@ Receive activities (right side panel of Galaxy) on your email or Slack. [Read mo
 Change Meteor settings from UI
 
 #### Pricing
-- Tiny containers: designed for hobby projects and open-source demos, starting from $7/month. [Read more](https://www.meteor.com/hosting#pricing)
+- Tiny containers: designed for hobby projects and open-source demos, starting from $7/month. No minimum charge, pay for only what you use. [Read more](https://www.meteor.com/hosting#pricing)
 
 - Galaxy is offering a free trial of 30 days! You can use up to 4 GBs of RAM, which is the same as 4 standard containers, 2 double containers or 1 quad, so you can try all the Galaxy container sizes for free. Sign-up for Galaxy [now](https://www.meteor.com/sign-up)!
 
