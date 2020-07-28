@@ -16,6 +16,9 @@ Better search and date navigation
 
 #### Two-factor authentication
 Two-factor authentication :wink:
+
+#### App Protection
+Security layer to prevent attacks
  
 #### Native app build and publish
 Build and publish Meteor Mobile Native apps to App Store and Google Play :rocket: 
@@ -25,6 +28,9 @@ Deploy directly from Git repositories
 
 #### User roles
 Permissions for developer and billing actions
+
+### Build cache on deploy
+Cache the build to deploy to different environments or to retry the upload
 
 ## Recently completed
 #### Public API
