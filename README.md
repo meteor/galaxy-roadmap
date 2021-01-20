@@ -1,11 +1,13 @@
 ## Roadmap
+Updated at: 2021/01/20
+
 As with any roadmap, this is a living document that will evolve as priorities and dependencies shift; we aim to update the roadmap with any changes or status updates every quarter. 
 
 #### Deploy from Git push
 Deploy directly from Git repositories
-
-#### Cold start
-Apps should be able to sleep and just start when they receive the first request, limited to specific container types
+ 
+#### Native app build and publish
+Build and publish Meteor Mobile Native apps to App Store and Google Play :rocket: 
  
 #### Production Meteor shell support
 Allow Meteor shell on Galaxy apps
@@ -16,14 +18,17 @@ Smart alerts specific for Meteor apps and Galaxy servers
 #### Improve Debugging
 - Server-side CPU and memory profiling
 - Ability to attach the Node inspector
- 
-#### Native app build and publish
-Build and publish Meteor Mobile Native apps to App Store and Google Play :rocket: 
 
 #### User roles
 Permissions for developer and billing actions
 
 ## Recently completed
+
+#### Free deploy
+Shared MongoDB hosting is [available](https://www.meteor.com/cloud) for non-production apps
+
+#### Free deploy
+Free deploy is [back](https://www.meteor.com/cloud) :wink:
 
 #### Improve Logs UI
 Better search and date navigation - [Watch here](https://www.youtube.com/watch?v=WPYyHeWM21Q)
