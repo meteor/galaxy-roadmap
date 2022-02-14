@@ -1,3 +1,5 @@
+Moved to https://cloud-guide.meteor.com/roadmap.html
+
 ## Roadmap
 Updated at: 2021/10/04
 
